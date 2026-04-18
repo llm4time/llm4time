@@ -1,0 +1,11 @@
+[[pages]]
+path = "views/auth/login.py"
+name = "Sign In"
+icon = "🔐"
+url_path = "login"
+
+[[pages]]
+path = "views/auth/register.py"
+name = "Sign Up"
+icon = "🔐"
+url_path = "register"

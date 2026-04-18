@@ -1,0 +1,12 @@
+Authlib==1.6.5
+bcrypt==5.0.0
+st-pages==1.0.1
+st-theme==1.2.3
+streamlit==1.51.0
+streamlit-option-menu==0.4.0
+extra_streamlit_components==0.1.81
+python-dotenv==1.2.1
+cryptography==41.0.3
+sqlalchemy==2.0.45
+PyJWT==2.10.1
+git+https://github.com/llm4time/llm4time.git@main#egg=llm4time

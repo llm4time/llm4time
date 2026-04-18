@@ -1,0 +1,35 @@
+[[pages]]
+path = "views/pages/upload.py"
+name = "Upload"
+icon = "📤"
+url_path = "upload"
+
+[[pages]]
+path = "views/pages/statistics.py"
+name = "Statistics"
+icon = "🎯"
+url_path = "statistics"
+
+[[pages]]
+path = "views/pages/settings.py"
+name = "Settings"
+icon = "⚙️"
+url_path = "settings"
+
+[[pages]]
+path = "views/pages/forecast.py"
+name = "Forecast"
+icon = "📊"
+url_path = "forecast"
+
+[[pages]]
+path = "views/pages/history.py"
+name = "History"
+icon = "📁"
+url_path = "history"
+
+[[pages]]
+path = "views/pages/account.py"
+name = "Account"
+icon = "📬"
+url_path = "account"

@@ -1,0 +1,9 @@
+[theme.dark.sidebar]
+dataframeHeaderBackgroundColor = "#0e1117"
+
+[theme.light.sidebar]
+dataframeHeaderBackgroundColor = "#fff"
+dataframeBorderColor = "#fff"
+
+[server]
+enableStaticServing = true
